@@ -43,6 +43,24 @@ Arguments can be passed to C programs from the command line, providing flexibili
 
 Several example programs demonstrate process creation, interaction, and management, illustrating concepts such as multiple forks, process identification, and orphan processes.
 
-## Conclusion
+## Fork 
+![phpBZlSOm](https://github.com/vansh-seth/Operating-System/assets/111755254/fcf87514-45bd-4171-9435-edf6bf5cd4ca)
 
-Understanding processes is essential for effective Unix/Linux programming and system administration. By comprehending process creation, hierarchy, and management, developers can design robust and efficient applications tailored to Unix/Linux environments.
+
+## fork with for loop
+```c
+#include <stdio.h>
+
+void main()
+{
+   int i;
+
+   for (i=0;i<3;i++)
+   {
+      fork();
+      printf("[%d] [%d] i=%d\n", getppid(), getpid(), i);
+   }
+}
+```
+
+![image](https://github.com/vansh-seth/Operating-System/assets/111755254/d97e72e6-a600-4087-95b6-af6e2e4b656a)
