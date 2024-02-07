@@ -47,7 +47,7 @@ Several example programs demonstrate process creation, interaction, and manageme
 ![phpBZlSOm](https://github.com/vansh-seth/Operating-System/assets/111755254/fcf87514-45bd-4171-9435-edf6bf5cd4ca)
 
 
-## fork with for loop
+## Fork with for loop
 ```c
 #include <stdio.h>
 
