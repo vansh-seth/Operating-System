@@ -6,7 +6,7 @@ int main(void)
   int i;
   for (i=0; i < 3; i++) {
     fork();
-    printf("hello\n");
+    printf("%d, %d\n",i,getpid());
   }
   return 0;
 }
