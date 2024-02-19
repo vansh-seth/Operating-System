@@ -1,0 +1,29 @@
+#include<stdio.h>
+int main (void) 
+{ 
+  for (int i=2; i<=5; i++) 
+  { 
+    fork( ); 
+  }
+  printf (“GOCLASSES”); 
+}
+
+/*
+Output:
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+GOCLASSES
+*/
