@@ -1,7 +1,3 @@
-Sure, here's a README.md file summarizing the information provided in a different format:
-
----
-
 # Priority Scheduling Algorithm: Preemptive vs Non-Preemptive
 
 ## What is Priority Scheduling?
