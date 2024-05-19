@@ -1,6 +1,4 @@
-Certainly! Here is a structured and detailed `README.md` file explaining the Banker's Algorithm with an example and solutions, formatted for clarity and ease of understanding:
 
-```markdown
 # Banker's Algorithm in Operating Systems
 
 The Banker's Algorithm is a deadlock avoidance algorithm used in operating systems to allocate resources safely to processes. It ensures that the system will remain in a safe state after granting the requested resources. The algorithm is named because it resembles a bank's method of managing loan requests to avoid insolvency.
