@@ -119,7 +119,3 @@ If P1 requests (1, 0, 0):
 ## Conclusion
 
 The Banker's Algorithm is essential for managing resources in an operating system to avoid deadlocks. By following the safety and resource request algorithms, the system ensures safe allocation of resources to processes.
-
-```
-
-This README provides a comprehensive overview of the Banker's Algorithm, including definitions, data structures, algorithms, and a step-by-step example to illustrate the concepts.
