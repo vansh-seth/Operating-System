@@ -137,10 +137,6 @@ while (TRUE) {
 
 Addressing the Reader-Writer Problem is essential for ensuring efficient and safe concurrent access to shared resources in operating systems. By employing synchronization techniques and algorithms tailored to this problem, system performance can be significantly enhanced while preventing data corruption and inconsistencies.
 
-Certainly! Here's a Markdown version of the content you provided, formatted for a README.md file:
-
----
-
 # The Dining Philosophers Problem
 
 The **Dining Philosophers Problem** is a classic synchronization challenge that illustrates issues with resource allocation and deadlock avoidance in concurrent systems. The problem involves five philosophers sitting around a circular table, alternating between thinking and eating. Each philosopher requires two chopsticks to eat, one on their left and one on their right.
@@ -187,6 +183,3 @@ To prevent deadlock, certain strategies can be implemented:
 
 The Dining Philosophers Problem exemplifies challenges in concurrent systems, particularly in ensuring efficient resource allocation and preventing deadlock. By employing semaphore-based solutions and strategic chopstick handling, the problem can be effectively addressed, enabling philosophers to dine without getting stuck in deadlock states.
 
----
-
-Feel free to customize this README.md file for your project or educational purposes!
