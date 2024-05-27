@@ -1,5 +1,3 @@
-# Operating-System
-
 # Operating Systems Lab
 
 ## Lab Course Information
