@@ -32,18 +32,13 @@
 | 13                | MID SEM TEST                                  | 2         |
 | 14                | Safety Algorithm                              | 2         |
 | 15                | Banker’s Algorithm                            | 2         |
-| 16                | Page Replacement algorithm: FIFO              | 2         |
-| 17                | Page Replacement algorithm: LRU               | 2         |
-| 18                | Page Replacement algorithm: Optimal Replacement | 2       |
-| 19                | Disk Scheduling: C-SCAN                       | 2         |
-| 20                | Disk Scheduling: C-LOOK                       | 2         |
+| 16                | Group Project                                 | 2         |
+| 17                | Group Project                                 | 2         |
+| 18                | Group Project                                 | 2         |
+| 19                | Group Project                                 | 2         |
+| 20                | Group Project                                 | 2         |
 | 21                | Group Project                                 | 2         |
 | 22                | Group Project                                 | 2         |
-| 23                | Group Project                                 | 2         |
-| 24                | Group Project                                 | 2         |
-| 25                | Group Project                                 | 2         |
-| 26                | Group Project                                 | 2         |
-| 27                | Group Project                                 | 2         |
-| 28                | END SEM TEST                                  | 2         |
+| 23                | END SEM TEST                                  | 2         |
 
 **Total Lab Hours:** 56
